@@ -1,0 +1,42 @@
+.projetos {
+    padding: 20px;
+    width: 100%;
+}
+
+.projetos h2 {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.projetos ul {
+    padding: 0;
+    display: flex; 
+    justify-content: center;
+    gap: 50px;
+}
+
+.projetos li {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    width: 300px; 
+    background-color: white;
+    border: 1px solid #b5b5b5;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.projetos img {
+    width: 100%; 
+    height: auto;
+    border-radius: 5px;
+}
+
+.projeto-info {
+    text-align: center;
+}
+
+.projetos h3 {
+    margin: 10px 0 5px;
+}

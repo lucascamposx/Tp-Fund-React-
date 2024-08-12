@@ -3,3 +3,22 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.cotainer {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.imagem {
+  text-align: center;
+}
+
+.imagem img {
+  border-radius: 10px;
+}
+
+.imagem p {
+  margin-top: 10px;
+  font-size: 20px;
+}

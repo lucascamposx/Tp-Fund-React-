@@ -1,0 +1,17 @@
+
+.cabecalho {
+    text-align: center;
+    padding: 20px;
+    background-color: #103d96;
+    color: white;
+}
+
+.cabecalho h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.cabecalho h2 {
+    margin: 0;
+    font-size: 1.5em;
+}
